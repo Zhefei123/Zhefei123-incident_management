@@ -1,4 +1,4 @@
-# Zhefei123-TDI-data_challenge_Section1
+# Zhefei123
 ITSM Incident Management 
 
 Incident management is a process which the main objective is to restore the operation of the IT service affected by corrupted Configuration Item (CI) as fast as possible so that ensuring the lowest impact on the business and customers. Currently, the process is mostly manual rule-based and time-consuming, which can cause delays. Therefore, there is a need for tools assisting in the particular process activities in order to establish more effective process execution, and Machine learning looks prospective to improve the processes through prediction and automation.
